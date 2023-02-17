@@ -41,8 +41,8 @@ public class MainFrame extends JFrame {
         JPanel topPanel = createSidePanel(50, new Color(0x1E1F22));
         JPanel bottomPanel = createSidePanel(50, new Color(0x1E1F22));
 
-        ImageIcon image = new ImageIcon("iconBild.png");
-        frame.setIconImage(image.getImage());
+        //ImageIcon image = new ImageIcon("iconBild.png");
+        //frame.setIconImage(image.getImage());
 
 
 
