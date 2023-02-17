@@ -6,6 +6,7 @@ SDK: Oracle OpenJDK version 19.0.1
 Ausführung (ohne Code compilieren zu müssen):
 Den "out/production/PasswortGenerator" Ordner in ein beliebiges Verzeichnis kopieren/ziehen. 
 Dann mit der Windows Powershell zu diesem Verzeichnis navigieren und dann mit "java Main" ausführen.
+Beachten Sie, dass sie ein JDK installiert haben sollten.
 
 ----
 
