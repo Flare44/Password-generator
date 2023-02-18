@@ -1,5 +1,5 @@
 # PasswortGenerator
-Passwort Generator with two modes using Swing
+Passwort Generator with gui and two modes
 ---
 SDK: Oracle OpenJDK version 19.0.1
 ---
