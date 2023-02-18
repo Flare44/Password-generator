@@ -1,6 +1,6 @@
 public class CreatePassword {
     public static String generate(String mode, int length) {
-        if(mode.equals("sicher")) {
+        if(mode.equals("secureMode")) {
             String[] sortedPassword = secure(length);
             String output = randomize(sortedPassword);
             return output;
@@ -10,7 +10,7 @@ public class CreatePassword {
     }
 
     public static String generate(String mode, int length, int amountSmallCharacters, int amountCapitalCharacters, int amountNumbers, int amountSpecialCharacters) {
-        if(mode.equals("individuell")) {
+        if(mode.equals("customMode")) {
             String[] sortedPassword = custom(length, amountSpecialCharacters, amountNumbers, amountSmallCharacters, amountCapitalCharacters);
             String output = randomize(sortedPassword);
             return output;
