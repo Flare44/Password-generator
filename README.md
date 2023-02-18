@@ -1,19 +1,9 @@
 # PasswortGenerator
 Passwort Generator in Java mit einem Gui (Java Swing)
-
+----
 SDK: Oracle OpenJDK version 19.0.1
 
-Ausführung (ohne Code compilieren zu müssen):
-Den "out/production/PasswortGenerator" Ordner in ein beliebiges Verzeichnis kopieren/ziehen. 
-Dann mit der Windows Powershell zu diesem Verzeichnis navigieren und dann mit "java Main" ausführen.
-Beachten Sie, dass sie ein JDK installiert haben sollten.
 
-----
-
-Ausführung (Code muss compiliert werden, da es sich hier um .java Dateien handelt. -> Änderungen können vorgenommen werden):
-Das Projekt downloaden und die "Main.java" ausführen. Dabei müssen die beiden anderen Dateien "CreatePassword.java" und "MainFrame.java" im gleichen Ordner liegen.
-
-----
 
 Anmerkung: 
 Das Projekt ist noch nicht fertig und wird in den nächsten Wochen immer wieder verbessert. Dabei verändert sich allerdings erstmal nur das Optische, sodass die Grundfunktionen jetzt bereits fertig vorhanden sind. 
