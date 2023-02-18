@@ -1,5 +1,5 @@
 # PasswortGenerator
-Passwort Generator in Java mit einem Gui (Java Swing)
+Passwort Generator with two modes using Swing
 ---
 SDK: Oracle OpenJDK version 19.0.1
 ---
